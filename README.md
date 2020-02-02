@@ -1,4 +1,4 @@
-# Ball_Mill_Controler
+# Ball_Mill_Controller
 It's really just a timer
 
 
