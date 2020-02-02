@@ -1,7 +1,7 @@
-//writen for Arduino 1.8.5
-//the two libraries below are required to run the controler
-//LiquidCrystal is usualy comes with Arduino but TimeLib is required to be downloded
-//Just look up "TimeLib.h Arduino" in the magic google box
+//written for Arduino 1.8.5
+//the two libraries below are required to run the controller
+//LiquidCrystal is usually comes with Arduino but TimeLib is required to be downloaded
+//Look up "TimeLib.h Arduino" in google
 #include <LiquidCrystal.h>
 #include <TimeLib.h>
 const int rs = 7, en = 6, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
